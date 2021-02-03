@@ -636,20 +636,20 @@ How much genetic variation is locally adaptive?
 
 How will populations respond to changes in the future?
 
-##
+
+## Other uses for population simulation
 
 ::: {.columns}
 :::::: {.column width=50%}
 
-To test theories and fit models, we need *simulations* with realistic
+- train inference methods
 
-1. <strike>population sizes</strike>,
-2. <strike>genomes</strike>,
-3. <strike>selective pressures</strike>,
-4. <strike>histories</strike>
-5. <strike>geography,</strike>
-6. species interactions,
-7. and ... ?
+- predict management outcomes
+
+- do power analyses
+
+- develop intuition
+
 
 :::
 :::::: {.column width=50%}
