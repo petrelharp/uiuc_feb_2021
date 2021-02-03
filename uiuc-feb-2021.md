@@ -664,6 +664,9 @@ How will populations respond to changes in the future?
 :::
 ::::::
 
+## {data-background-image="figs/slim_screenshot.png" data-background-position=center data-background-size=100%}
+
+
 ## 
 
 :::: {.columns}
